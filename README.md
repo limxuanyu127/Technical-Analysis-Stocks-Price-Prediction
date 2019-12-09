@@ -3,7 +3,6 @@ Investigated the potential of technical analysis, by comparing the effectiveness
 
 ## Research Description (unfinished)
 
-Markdown
 # Exploring predictive models for stock prices
 
 
@@ -42,7 +41,7 @@ For models:
   2. Identify possible reasons as to why a certain model work better than others
 2. Difficulties faced and possibility of future work to overcome them
 
-Problem Statement
+### Problem Statement
 
 In stock price prediction, there are 2 schools of thought: the Effecient Market Hypothesis(EMH) and Adapative Market Hypothesis (AMH). AMH states that stock prices are predictable and can be profited from. In this project, I want to explore the possibility of that.
 
@@ -50,7 +49,7 @@ There are many factors that affect the price movements of stocks. However, it is
 
 The ultimate aim of this project is not to predict stock prices accurately as that is virtually impossible given my level of expertise. Rather, I will be comparing various methods and models to predict stock prices, and identify what makes them successful or unsuccessful. In my attempt to predict percentage change in stock prices, I will be looking at 2 broad categories of models: univariate and multivariate. The univariate model will serve as a benchmark for my project. Ultimately, I hope to be able to design a multivariate model that works better than the univariate model. In doing so, I will have successfully utilise the various technical indicators, and also develop a simple framework that can be used to predict changes in stock prices more accurately.
 
-Methodology
+### Methodology
 
 Due to the complexity and uncertainty of this problem, I have redesigned the methodology multiple times. After much contemplation, I have broken down my methodology into the following steps
 
@@ -67,7 +66,7 @@ Due to the complexity and uncertainty of this problem, I have redesigned the met
 5. Model Evaluation
   1. Determine which models work better, and try to identify what elements of those models make them more successful
 
-Feature Selection
+### Feature Selection
 
 There are 4 major categories of technical indicators:
 
